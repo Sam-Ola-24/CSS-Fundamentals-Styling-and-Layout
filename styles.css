@@ -11,13 +11,13 @@ body {
     background-color: #002;
     padding: 30px 30px;
     border-radius: 15px;
-    width: 450px;
+    width: 400px;
     margin: 70px auto;
     color: white;
 }
 
 form{
-    width: 400px;
+    width: 350px;
 }
 
 h3 {
